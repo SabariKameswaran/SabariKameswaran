@@ -6,4 +6,4 @@
 - 👨‍💻 Currently working on creating a framework using Rust
 - 👨‍💼 Software Engineer Intern @Kriyaetive
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SabariKameswaran&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SabariKameswaran&theme=transparent)](https://git.io/streak-stats)
