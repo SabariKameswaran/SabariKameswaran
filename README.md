@@ -6,4 +6,4 @@
 - 👨‍💻 Currently working on creating a framework using Rust
 - 👨‍💼 Software Engineer Intern @Kriyaetive
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SabariKameswaran&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabariKameswaran&show_icons=true&theme=transparent)
